@@ -42,3 +42,7 @@ bool write(QString cles, QString valeur)
 ```
 
 Méthode qui permet d'écrire une clé (passée en paramètre) et sa valeur (également passée en paramètre). Retourne ```True``` si l'opération a réussi, et ```False``` en cas de problème.
+
+# Crédit 
+
+Développer par Enzo B et publier par Baptiste P 
